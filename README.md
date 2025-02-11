@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ysmayyl Annaberdiyew</h1>
 <h3 align="center">A passionate frontend developer from Turkmenistan</h3>
 
-- 🔭 I’m currently working on **HTML, CSS**
+- 🔭 I’m currently working on **HTML, CSS, Js, React, Node.js, Express.js**
 
-- 🌱 I’m currently **HTML, CSS, JS**
+- 🌱 I’m currently **HTML, CSS, JS, React.js, Node.js, Express.js**
 
 - 📫 How to reach me **ikimundokuz@gmail.com**
 
